@@ -1,2 +1,2 @@
-# MY-Prog
+# tamplet
 for testing
